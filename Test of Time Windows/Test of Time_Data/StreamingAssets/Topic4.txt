@@ -1,0 +1,3 @@
+  Video transfer cable:; USB-B; HDMI; AC; Micro USB; 2;
+Old port:; DP; USB-C; Parallell; Thunderbolt; 3;
+Nonexestant:; USB-D; USB-C; Mini USB-A; Micro USB; 1
