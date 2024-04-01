@@ -1,0 +1,25 @@
+  What year was the Declaration of Independence signed?; 1776; 1775; 1787; 1765; 1;
+How many stars are in the American flag and what do they represent?; 50 victories; 50 states; 50 battles; 50 presidents; 2;
+Which president is NOT on Mount Rushmore?; Abraham Lincoln; George Washington; James Madison; Thomas Jefferson; 3;
+Who was the second president of the United States?; James Monroe; Thomas Jefferson; James Madison; John Adams; 4;
+What does the constitution NOT contain?; Declaration; Articles; Amendments; Preamble; 1;
+How many terms can a president serve?; 3 terms; 2 terms; 5 terms; 1 term; 2;
+When did the First World War start?; July 28 1910; July 28 1912; July 28 1914; July 28 1918; 3;
+Which country was Alaska bought from?; Sweden; Iceland; Canada; Russia; 4;
+When did the Second World War start?; September 1 1939; September 1 1935; September 1 1941; September 1 1945; 1;
+Which war had the most American deaths?; World War I; The Civil War; World War II; Vietnam War; 2;
+Who assassinated Abraham Lincoln?; Charles J. Guiteau; Leon Czolgosz; John Wilkes Booth; Lee Harvey Oswald; 3;
+Which historical figure is NOT on a dollar bill?; George Washington; Thomas Jefferson; Benjamin Franklin; Andrew Johnson; 4;
+What is NOT a requirement to be elected for president?; Member of congress; U.S.resident at least 14 years; Natural born citizen of the U.S.; At least 35 years old; 1;
+Who was NOT a founding father of the United States?; John Hancock; Abraham Lincoln; Samuel Adams; George Washington; 2;
+what was the first established state in the United States?; New Jersey; Pennsylvania; Delaware; Georgia; 3;
+Which president served 3 terms?; George Washington; Ulysses S Grant; James Monroe; Theodore Roosevelt; 4;
+Who was the fourth president to be assassinated in the U.S?; John F. Kennedy; William McKinley; James Garfield; Abraham Lincoln; 1;
+What is the capital of the United States?; New York; Washington D.C.; California; Pennsylvania; 2;
+Who served the shortest term as president of the United States?; Martin Van Buren; John Tyler; William Henry Harrison; Grover Cleveland; 3;
+Who discovered the sea route to the USA?; Vasco Da Gama; Ferdinand Magellan; Francisco De Bobadilla; Christopher Columbus; 4;
+The first ten amendments in the Constitution are called?; The Bill of Rights; The articles; The preamble; The preface; 1;
+Who makes federal laws in the U.S?; President; Congress; House of Representatives; Senate; 2;
+What year was the Statue of Liberty built?; 1920; 1921; 1924; 1939; 3;
+What year was NATO founded?; 1916; 1910; 1934; 1949; 4;
+How many branches of government are there?; 3; 5; 7; 2; 1

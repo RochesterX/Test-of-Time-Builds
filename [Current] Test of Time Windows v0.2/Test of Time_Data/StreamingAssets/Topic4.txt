@@ -1,0 +1,25 @@
+  How many continents are there?; 7; 6; 8; 9; 1;
+What is the largest mammal in the world?; Humpback Whale; Blue Whale; Finback Whale; Sperm Whale; 2;
+What do you call a baby goat?; Child; Baby; Kid; Joey; 3;
+What temperature is considered at freezing point in Fahrenheit?; 5 degrees; 21 degrees; 9 degrees; 32 degrees; 4;
+What is the main language spoken in Brazil?; Portuguese; Spanish; English; French; 1;
+What is the largest country in the world?; Canada; Russia; China; United States; 2;
+What do you call an animal that eats both plants and meat?; Herbivore; Omnisaur; Omnivore; Carnivore; 3;
+Which is NOT a primary color?; Red; Yellow; Blue; Green; 4;
+What is your body’s largest organ?; Skin; Kidneys; Lungs; Brain; 1;
+Who painted the Mona Lisa?; Vincent Van Gogh; Leonardo Da Vinci; Pablo Picasso; Michelangelo; 2;
+What American president is on the 5 dollar bill?; Andrew Jackson; Thomas Jefferson; Abraham Lincoln; George Washington; 3;
+What is the world's largest ocean?; Atlantic; Indian; Artic; Pacific; 4;
+What temperature is water's boiling point in Fahrenheit?; 212 degrees; 195 degrees; 220 degrees; 300 degrees; 1;
+What are spiders classified as?; Lepidoptera; Arthropoda; Hymenoptera; Hemiptera; 2;
+How many bones are in the human body?; 305; 232; 206; 352; 3;
+What geometric shape is commonly used for stop signs?; Hexagon; Nonagon; Heptagon; Octagon; 4;
+What is the biggest technology company in the U.S?; Microsoft; Apple; Amazon; Meta; 1;
+What is the most rare blood type?; AB positive; AB negative; B negative; O negative; 2;
+What is the most common language spoken in China?; Cantonese; Xiang; Mandarin; Chinese; 3;
+What is the national bird of the U.S?; Hawk; Falcon; Vulture; Bald Eagle; 4;
+How many teeth does an adult have?; 32; 28; 30; 34; 1;
+How many feet are in a yard?; 6; 3; 12; 9; 2;
+In which direction does the sun rise?; South; North; East; West; 3;
+What is the most celebrated holiday in the U.S?; Thanksgiving; Memorial Day; New Year's; Christmas; 4;
+What continent is the U.S in?; North America; South America; Africa; Asia; 1

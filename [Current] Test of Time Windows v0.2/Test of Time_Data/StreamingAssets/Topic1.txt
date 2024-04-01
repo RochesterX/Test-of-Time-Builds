@@ -1,0 +1,25 @@
+  What does SQL stand for?; Structured Query Language; Simple Question  Language; System Query Logic; Sequential Query Language; 1;
+In computer networking, what does the acronym TCP/IP stand for?; Transmission Control Protocol/ Internet Protocol; Total Control and Input/ Output Protocol; Two-Component Integration Process; Telecommunication Control Panel; 1;
+What is the purpose of a firewall in computer security?; Block unauthorized access; Speed up internet connection; Enhance graphic performance; Manage file storage; 1;
+What does the acronym HTML stand for?; High-level Text Manipulation Language; HyperText Markup Language; Hyperlink and Text Management Language; Hyper Transfer Markup Logic; 2;
+Which type of memory is non-volatile and retains data even when the power is turned off?; RAM; Cache; ROM; Flash; 3;
+What is the role of an IP address in networking?; Control internet speed; Establish a secure connection; Identify a device on the network; Determine device color; 3;
+What is the significance of the '404' HTTP status code?; Successful request; Page not found; Internal server error; Redirect; 2;
+What is the role of a variable in programming?; Store data; Display output; Define functions; Manage loops; 1;
+Which of the following is a dynamically-typed programming language?; Java; C++; Python; C#; 3;
+What does the acronym CPU stand for?; Control Processing Unit; Computer Processing Unit; Central Protocol Union; Central Processing Unit; 4;
+Which data structure uses the First In, First Out (FIFO) principle?; Stack; Queue; Linked List; Hash Table; 2;
+What is the purpose of the 'break' statement in programming?; Exit the program; End the current loop or switch statement; Skip the next iteration of a loop; Print a line break; 2;
+What is the function of a router in a computer network?; Connect devices within the same network; Assign IP addresses to devices; Filter and forward data packets between networks; Amplify network signals; 3;
+What is the role of the DNS (Domain Name System) in networking?; Encrypt data transmission; Convert IP addresses to domain names; Manage user authenti- cation; Control network traffic; 2;
+Which of the following is NOT a type of join operation in SQL?; INNER JOIN; OUTER JOIN; SIDE JOIN; CROSS JOIN; 3;
+In networking, what does the term "LAN" stand for?; Local Area Network; Large Access Network; Long-range Area Network; Low-latency Access Network; 1;
+Which programming language was developed by Apple for macOS and iOS applications?; Java; Swift; C#; Objective-C; 2;
+In computer networking, what is the purpose of the subnet mask?; Identify the network address; Encrypt data transmission; Control access to a network; Assign IP addresses dynamically; 1;
+Which of the following is an example of a NoSQL database?; MySQL; PostgreSQL; SQLite; MongoDB; 4;
+What is the role of a cache memory in a computer system?; Store temporary data for the CPU; Manage file storage; Execute instructions; Control network traffic; 1;
+Which of the following is an example of a high-level programming language?; Assembly; Machine Code; Java; Binary; 3;
+In web development, what does CSS stand for?; Computer Style Sheets; Cascading Style Sheets; Centralized Style Syntax; Concatenated Style Strings; 2;
+In the context of databases, what does the term "Normalization" refer to?; Increasing redundancy; Reducing data redundancy; Sorting data alphabetically; Data encryption; 2;
+In relational database design, what is a foreign key?; A key that uniquely identifies each record in a table; A key that is NOT part of the primary key; A key that links two tables; A key used for encryption; 3;
+What is the role of an index in a database?; Store data records; Speed up data retrieval; Manage user access; Execute database queries; 2
