@@ -1,1 +1,1 @@
-Download the code for the builds.
+Check out the latest release for Windows, macOS, and Android builds.
